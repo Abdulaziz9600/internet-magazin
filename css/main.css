@@ -1,0 +1,269 @@
+.outer {
+  text-align: center;
+  font-family: "Arial", "Helvetica", sans-serif;
+}
+.header {
+  display: inline-block;
+  width: 1366px;
+}
+.header-logo {
+  width: 104px;
+  height: 24px;
+}
+.header-nav {
+  display: inline-block;
+  width: 700px;
+}
+.header-nav-item {
+  display: inline-block;
+  width: 90px;
+}
+.header-nav-link {
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 16px;
+  color: #555248;
+}
+.header-icons {
+  width: 99px;
+  height: 21px;
+}
+
+.hero {
+  display: inline-block;
+  width: 1366px;
+}
+.hero-contect {
+  display: inline-block;
+  width: 450px;
+  vertical-align: top;
+}
+.hero-inner {
+  display: inline-block;
+  width: 450px;
+  height: 200px;
+}
+.hero-heading {
+  width: 408px;
+  height: 95px;
+}
+.hero-text {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  color: #1b1a17d1;
+}
+.hero-btn {
+  display: inline-block;
+  width: 205px;
+  height: 60px;
+  background-color: #444240;
+}
+.hero-link {
+  text-decoration: none;
+  color: white;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  color: #FFFFFF;
+}
+
+.models {
+  display: inline-block;
+  width: 1366px;
+}
+.models-heading {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 43px;
+  color: #1B1A17;
+}
+.models-contect {
+  display: block;
+  width: 1200px;
+  text-align: right;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #444240;
+}
+.models-item {
+  display: inline-block;
+  width: 370px;
+  text-align: left;
+}
+.models-text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #1b1a17d1;
+}
+.models-text2 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  color: #1b1a17d1;
+}
+.models-img {
+  width: 313px;
+  height: 313px;
+}
+.models-link {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: #1B1A17;
+}
+.screen {
+  display: inline-block;
+  width: 1366px;
+
+}
+.screen-banner {
+  width: 521px;
+  height: 414px;
+}
+.screen-contect {
+  display: inline-block;
+  vertical-align: top;
+  width: 700px;
+}
+.screen-heading {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 43px;
+  color: #1B1A17;
+}
+.screen-text {
+  font-size: 16px;
+  line-height: 150%;
+  color: #444240;
+}
+.screen-btn {
+  display: inline-block;
+  width: 205px;
+  height: 60px;
+  background-color: #D4B098;
+}
+.screen-link {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  color: #FFFFFF;
+}
+.news {
+  display: inline-block;
+  width: 1366px;
+}
+.news-contect {
+  display: inline-block;
+  width: 650px;
+  vertical-align: top;
+}
+.news-heading {
+  font-size: 32px;
+  line-height: 43px;
+  color: #1B1A17;
+}
+.news-text {
+  font-size: 16px;
+  line-height: 27px;
+  color: #444240;
+}
+.news-text-link {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 27px;
+  color: #444240;
+}
+.news-icons {
+  width: 93px;
+  height: 23px;
+}
+.news-img {
+  display: inline-block;
+  width: 650px;
+}
+.news-img12 {
+  display: inline-block;
+  vertical-align: top;
+  width: 245px;
+}
+.news-img1 {
+  display: inline-block;
+  width: 242px;
+  height: 228px;
+}
+.news-img2 {
+  display: inline-block;
+  width: 242px;
+  height: 222px;
+}
+.news-img3 {
+  display: inline-block;
+  width: 377px;
+  height: 460px;
+}
+.inner {
+  display: inline-block;
+  width: 1366px;
+  height: 50px;
+}
+.footer {
+  display: inline-block;
+  width: 1366px;
+  height: 250px;
+  background-color: #444240;
+}
+.footer-inner1 {
+  display: inline-block;
+  width: 335px;
+  text-align: center ; 
+}
+.footer-inner {
+  display: inline-block;
+  width: 335px;
+  text-align: left ;
+}
+.footer-logo {
+  display: inline-block;
+  width: 130px;
+  height: 35px;
+}
+.contact {
+  display: block;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 14px;
+  color: #ffffffbf;
+}
+.about {
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+  text-align: left;
+}
+.about-item {
+  list-style-type: none;
+}
+.about-item-link {
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 14px;
+  color: #ffffffbf;
+}
+
